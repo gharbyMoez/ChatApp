@@ -1,4 +1,4 @@
-﻿namespace ChatApp.DTOs
+﻿namespace ChatApp.DTOs;
 
 public class CreateMessageDto
 {
