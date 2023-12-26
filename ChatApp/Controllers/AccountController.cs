@@ -1,5 +1,4 @@
-﻿using API.Controllers;
-using ChatApp.Data;
+﻿using ChatApp.Data;
 using ChatApp.DTOs;
 using ChatApp.Entities;
 using ChatApp.Interfaces;
